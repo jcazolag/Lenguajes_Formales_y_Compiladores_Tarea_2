@@ -2,7 +2,6 @@
 
 ## Student Information
 * **Student's Full Name:** Juan Camilo Anzola Gómez
-* **Student's Class Number:** (Completa aquí con tu número de grupo, ej. 01 o 02)
 
 ## Environment and Tools
 * **Operating System:** CachyOS x86_64
